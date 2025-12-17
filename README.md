@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working on [Cosmos SDK](https://block-voice.vercel.app/)
 
-- 🌱 I’m currently learning **rust**
+- 🌱 I’m currently learning **BERT**
 
-- 👯 I’m looking to collaborate on **Polygon**
+- 👯 I’m looking to collaborate on **Rust related project**
 
-- 🤝 I’m looking for help with **ZK**
+- 🤝 I’m looking for help with **DRM**
 
-- 👨‍💻 All of my projects are available at [Personal Portfolio](https://sachintedwa.vercel.app/)
+- 👨‍💻 All of my projects are available at [Personal Portfolio](https://sachintedwa.vercel.app/)-- working on something big one (project_x)
 
 - 📝 I regularly write articles on [bitcointodayprice.com](bitcointodayprice.com)
 
-- 💬 Ask me about **Finance, Defi, Crypto, Blockchain**
+- 💬 Ask me about **Finance, Defi, Crypto, Blockchain, AI**
 
 - 📫 How to reach me **tedwasachin123@gmail.com**
 

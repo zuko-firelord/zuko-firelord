@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/Sachintedwa1" target="blank"><img src="https://img.shields.io/twitter/follow/Sachintedwa1?logo=twitter&style=for-the-badge" alt="Sachintedwa1" /></a> </p>
 
-- 🔭 I’m currently working on [Cosmos SDK](https://block-voice.vercel.app/)
+- 🔭 I’m currently working on "Community-Driven Learning Platform"
 
 - 🌱 I’m currently learning **BERT**
 
@@ -41,5 +41,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuko-firelord&show_icons=true&locale=en&layout=compact" alt="zuko-firelord" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zuko-firelord&show_icons=true&locale=en" alt="zuko-firelord" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zuko-firelord&" alt="zuko-firelord" /></p>

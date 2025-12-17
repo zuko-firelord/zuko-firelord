@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/Sachintedwa1" target="blank"><img src="https://img.shields.io/twitter/follow/Sachintedwa1?logo=twitter&style=for-the-badge" alt="Sachintedwa1" /></a> </p>
 
-- 🔭 I’m currently working on "Community-Driven Learning Platform"
+- 🔭 I’m currently working on "Community-Driven Learning Platform" in rust
 
 - 🌱 I’m currently learning **BERT**
 
